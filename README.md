@@ -1,8 +1,4 @@
-# Medoid AI - GiveBackGPT
-
-<p align="center">
-  <img src="assets/logo.png" alt="GiveBackGPT Logo" />
-</p>
+# Medoid AI - 🤲 GiveBackGPT
 
 <h4 align="center">An open, innovative approach to build fair AI economies that include creators for sustainable growth.</h4>
 
@@ -24,7 +20,7 @@
 
 ## 📜 Table of Contents
 
-- [Medoid AI - GiveBackGPT](#medoid-ai---givebackgpt)
+- [Medoid AI - 🤲 GiveBackGPT](#medoid-ai----givebackgpt)
   - [📜 Table of Contents](#-table-of-contents)
   - [📚 Overview](#-overview)
   - [✨ Features Overview](#-features-overview)
@@ -35,7 +31,7 @@
   - [🎯 How to Use](#-how-to-use)
     - [▶️ Launching the App](#️-launching-the-app)
     - [🎉 Trying Out the Features](#-trying-out-the-features)
-  - [🤲 Contributions](#-contributions)
+  - [🌟 Contributions](#-contributions)
   - [🌱 What's Next](#-whats-next)
   - [🙏 Community Support](#-community-support)
   - [📄 License](#-license)
@@ -127,7 +123,7 @@ docker run --rm -p 80:80 --mount type=bind,source="$(pwd)"/src,target=/usr/share
   <img src="assets/credit-authors.png">
 </div>
 
-## 🤲 Contributions
+## 🌟 Contributions
 
 The project is open-source and we welcome your contributions!
 
